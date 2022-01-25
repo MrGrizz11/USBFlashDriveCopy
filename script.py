@@ -33,6 +33,4 @@ def search_target():
 
 
 search_target()
-
-print(location)
 sleep(5)
